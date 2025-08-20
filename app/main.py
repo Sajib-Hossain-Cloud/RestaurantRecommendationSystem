@@ -39,3 +39,4 @@ async def root():
         "docs": "/docs",
         "health": f"{settings.API_V1_STR}/health"
     }
+
